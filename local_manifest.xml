@@ -25,7 +25,7 @@
   <remove-project name="android_frameworks_opt_telephony" path="frameworks/opt/telephony"/>
   <project path="frameworks/opt/telephony" name="PixelExperience/frameworks_opt_telephony" remote="github" revision="twelve"/>
   
-  <remove-project name="platform/frameworks/opt/net/ims"  path="frameworks/opt/net/ims"/>
+  <remove-project name="android_frameworks_opt_net_ims"  path="frameworks/opt/net/ims"/>
   <project path="frameworks/opt/net/ims" name="PixelExperience/frameworks_opt_net_ims" remote="github" revision="twelve"/>
 
 </manifest>
